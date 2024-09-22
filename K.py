@@ -1,1 +1,1 @@
-import Ahad
+os,system("Ahad")
